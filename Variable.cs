@@ -13,7 +13,8 @@ namespace VariableDefinition
          b = 20; // 1.eleman
          c = a + b; //2.eleman 
          Console.WriteLine("a = {0}, b = {1}, c = {2}", a, b, c);
-     
+
+         Console.WriteLine("Test comment...");
       }
    }
 }
